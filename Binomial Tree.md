@@ -4,4 +4,4 @@
 2. Computed payoff at maturity
 3. Backward induction
 ## Risk-n Prob
-$$ p = (exp(r*t)-d)/(y-d $$
+$$ p = (exp(r*t)-d)/(y-d) $$

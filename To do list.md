@@ -10,3 +10,8 @@
 ## Other
 1. generalize models on python
 2. copilot agent for modeling
+
+# Daily Progress
+## Sunday, Week 1, 08 March 2026
+0. Save yourself
+1. Waterfall: figure out what & model it, with help of GPT

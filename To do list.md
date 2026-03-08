@@ -15,3 +15,5 @@
 ## Sunday, Week 1, 08 March 2026
 0. Save yourself
 1. Waterfall: figure out what & model it, with help of GPT
+help me to understand this waterfall allocation
+<img width="3471" height="1610" alt="image" src="https://github.com/user-attachments/assets/7bf24533-8d47-450c-a372-a81eb44497fe" />
